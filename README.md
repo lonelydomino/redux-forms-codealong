@@ -389,7 +389,7 @@ handleSubmit = event => {
 
 When `handleSubmit()` is called, whatever is currently stored in `this.state`
 will be sent off to our reducer via our dispatched action. The fully
-redux'd component ends up looking the like the following:
+redux'd component ends up looking like the following:
 
 ```js
 import React, { Component } from 'react';
